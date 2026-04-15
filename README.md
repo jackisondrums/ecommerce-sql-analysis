@@ -71,6 +71,7 @@ ecommerce-sql-analysis/
     ├── 04_data_model.sql
     ├── 05_analysis_queries.sql
     └── 06_key_insights.sql
+```
 
 ## How to Use
 Run the SQL files in sequence to follow the workflow:
