@@ -15,7 +15,7 @@
 -- There is approximately a 25% churn rate.
 -- Churned customers spent roughly the same as active customers, suggesting that churn is not strongly correlated with customer spending levels. Other factors may be influencing retention.
 
--- The results show a high return rate. Home items especially have a total of 20147 items returned over 49851 transactions / approx. 40%.
+-- Home products had the highest observed return volume, with approximately 20,147 returns across 49,851 transactions (~40%).
 
 -- Credit card is the most frequently used payment method
 -- All payment methods show similar average order values
