@@ -60,6 +60,7 @@ The following analyses were conducted:
 - Credit card was the most frequently used payment method
 
 ## Project Structure
+```text
 ecommerce-sql-analysis/
 │
 ├── README.md
